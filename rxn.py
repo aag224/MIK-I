@@ -92,7 +92,7 @@ if charge == "Y":
          print("Pump 5 OFF")
          GPIO.output(pump5,1)
          sleep(1)
-elif carga == "N":
+elif charge == "N":
      def Pmp1():
          GPIO.output(pump1,0)
          print("Pump 1 ON")
