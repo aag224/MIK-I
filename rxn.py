@@ -132,7 +132,7 @@ elif charge == "N":
      def Pmp5():
          GPIO.output(pump5,0)
          print("Pump 5 ON")
-         sleep(volp5/flujos[4])
+         sleep(volp5/flow[4])
          print("Pump 5 OFF")
          GPIO.output(pump5,1)
          sleep(1)
