@@ -1,4 +1,18 @@
 # MIK-I
 
 
-This repository contains codes that let you use the platform MIK-I for synthesis.
+### Authors:
+- Flores-Ortiz, M. A.
+* Mier-Jimenez, R. S.
++ Aguilar-Granda, A.
+- Morlet-Avilés, G. A.
+
+##This repository contains codes that let you use the platform MIK-I for synthesis.
+
+```
+
+-Códigos  
+-Muestra de diseño
+-Referencias  
+
+```
