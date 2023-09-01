@@ -34,6 +34,7 @@ def Dir_R_motor():
 	sleep(tim)
 	GPIO.output(rstir,0)
 	print("Stir Rigth OFF")
+	sleep(1)
 
 
 
