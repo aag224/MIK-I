@@ -147,7 +147,7 @@ elif charge == "N":
 
 else: 
      print("Only Y or N")
-     carga = str(input("Consider the loading time? (Y/N) "))
+     charge = str(input("Consider the loading time? (Y/N) "))
 
 
 Pmp2()
