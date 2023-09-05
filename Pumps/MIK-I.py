@@ -93,13 +93,6 @@ def bomba5ON():
     print("Pump 5 ON")
 Button(root, text="ON",command=bomba5ON).place(x=300,y=200)
 
-"""
-Button(root, text="ON",command="").place(x=200,y=510)
-Button(root, text="ON",command="").place(x=400,y=510)
-Button(root, text="ON",command="").place(x=600,y=510)
-Button(root, text="ON",command="").place(x=800,y=510)
-Button(root, text="ON",command="").place(x=1000,y=510)
-"""
 
 def bomba1OFF():
     GPIO.setmode(GPIO.BCM)
@@ -137,16 +130,8 @@ def bomba5OFF():
     print("Pump 5 OFF")
 Button(root, text="OFF",command=bomba5OFF).place(x=298,y=240)
 
-"""
-Button(root, text="OFF",command="").place(x=198,y=550)
-Button(root, text="OFF",command="").place(x=398,y=550)
-Button(root, text="OFF",command="").place(x=598,y=550)
-Button(root, text="OFF",command="").place(x=798,y=550)
-Button(root, text="OFF",command="").place(x=998,y=550)
-"""
 
 ventana.pack()
 mainloop()
 GPIO.cleanup()
 
-#the lines that are commented 
