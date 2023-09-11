@@ -7,8 +7,6 @@
 + Aguilar-Granda, A.
 
 #
-#
-#
 
 This repository contains
 
