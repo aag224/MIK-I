@@ -9,7 +9,7 @@
 #
 
 This repository contains:
-- :file_folder: __Guide__:
+- :file_folder:
     +[Guide to running a synthesis](Guide.to.running.synthesis.codes.pdf)
 
 MIK-I setup:
