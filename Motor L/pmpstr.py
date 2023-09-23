@@ -9,7 +9,6 @@ bomba_1=17
 bomba_2=27
 bomba_3=22
 bomba_4=13
-
 motor_A=24
 motor_A1=12
 motor_A2=20
