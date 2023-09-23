@@ -14,7 +14,6 @@ pump3=27
 pump4=17
 pump5=18
 
-
 pump1=ventana.create_oval(50,40,200,190,outline="black")
 c1=ventana.create_oval(120,110,130,120,fill="silver", outline="black")
 pump1_label=Label(text="Pump 1",bg='white',font=("Cambria",13))
