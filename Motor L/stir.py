@@ -13,7 +13,7 @@ GPIO.setup(rstir,GPIO.OUT)
 pw_A=GPIO.PWM(motor_A,500)
 pw_A.start(0)
 
-print("-Choose direction L or R \n -Choose velocity 0-100")
+print("-Choose direction L or R \n -Choose velocity 0 - 100")
 print("Example for a command: 'L50' (direction, velocity) \n \n")
 cmd=input("Insert command: ")
 tim=int(input("Operation time (s): "))
