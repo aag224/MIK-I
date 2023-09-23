@@ -8,11 +8,9 @@
 
 #
 
-This repository contains
-
-the guide to running the synthesis codes:
-
-[Guide to running synthesis codes.pdf](https://github.com/aag224/MIK-I/files/12571146/Guide.to.running.synthesis.codes.pdf)
+This repository contains:
+-:file_folder: main:
+    +[Guide to running a synthesis](Guide.to.running.synthesis.codes.pdf)
 
 MIK-I setup:
 
