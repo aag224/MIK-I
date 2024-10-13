@@ -1,3 +1,4 @@
+#Run in parallel a stepper motor and a peristaltic pump
 import RPi.GPIO as GPIO
 import time 
 from time import sleep
